@@ -26,10 +26,14 @@ Replace the Token in config.json
 ```
 > Note: This bot needs a [Node.js v16+](https://nodejs.org/en/blog/release/v16.0.0/)
 
+To install dependencies type:
+```
+npm install
+```
+
 To run bot type:
 ```
-npm i
-node .
+node index.js
 ```
 
 ## Congratulations! You successfully install and run bot!

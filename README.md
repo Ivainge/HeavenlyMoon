@@ -1,4 +1,4 @@
-###To start you need:
+### To start you need:
 
 Obtain a Bot Token From [Here](https://discord.com/developers)
 Replace the Token in config.json
@@ -32,4 +32,4 @@ npm i
 node .
 ```
 
-#Congratulations! You successfully install and run bot!
+# Congratulations! You successfully install and run bot!
